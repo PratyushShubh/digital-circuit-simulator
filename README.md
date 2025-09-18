@@ -336,7 +336,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 Piyush
+Copyright (c) 2025 Pratyush
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -382,4 +382,4 @@ SOFTWARE.
 
 ---
 
-**Made with ❤️ by Piyush | Digital Circuit Simulator v1.0**
+**Made with ❤️ by Pratyush | Digital Circuit Simulator v1.0**
