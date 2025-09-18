@@ -1,0 +1,15 @@
+HalfAdder
+2
+A
+B
+2
+Sum
+Carry
+XOR Sum A B
+AND Carry A B
+END
+0 0
+0 1
+1 0
+1 1
+EXIT
